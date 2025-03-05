@@ -1,3 +1,10 @@
+Our Project main goal is to find the next Football stars, We are going to try to achieve that by
+using data from a few di?erent years. More specifically we will try to estimate a players’
+potential rating, and to estimate this market value. We will try to do it using deep learning
+tools learned in class and online. Our goal is to build accurate models that revolutionize
+how football talent is identified and valued.
+
+
 Running our project is actually very simple, it will only take a few steps:
 1) Open a ipynb IDE such as Anaconda or Google Collab
 2) Upload the 3 files saved in the "Datasets" directory: "players_20.csv", "players_21.csv", "players_22.csv"
